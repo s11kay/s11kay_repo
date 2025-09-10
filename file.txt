@@ -1,4 +1,7 @@
 *_TABLE 1_*
+1. item1
+3. item2
+4. item3
 
 | Name  | Age | Location|
 |-------|-----|---------|
