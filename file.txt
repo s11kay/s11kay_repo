@@ -1,4 +1,4 @@
-*_TABLE 1_*
+*TABLE 1*
 1. item1
 3. item2
 4. item3
