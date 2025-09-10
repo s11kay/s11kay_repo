@@ -1,4 +1,11 @@
+
 | Name  | Age | Location|
 |-------|-----|---------|
 |kwame  |30   |U.K      |
 |ABENA  |22   |U.S.A    |
+
+
+Hello git
+I love linux
+I love devops
+
