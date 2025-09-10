@@ -1,1 +1,4 @@
-Hello git
+| Name  | Age | Location|
+|-------|-----|---------|
+|kwame  |30   |U.K      |
+|ABENA  |22   |U.S.A    |
