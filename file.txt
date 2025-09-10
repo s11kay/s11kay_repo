@@ -1,4 +1,4 @@
-**_TABLE 1_
+***_TABLE 1_*
 
 | Name  | Age | Location|
 |-------|-----|---------|
